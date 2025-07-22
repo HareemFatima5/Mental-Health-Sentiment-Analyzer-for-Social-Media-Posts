@@ -35,7 +35,7 @@ nltk.download('wordnet')
 ## How to Use
 Open the Jupyter Notebook:
 
-'''bash
+```bash
 jupyter notebook Mental_Health_Sentiment_Analyzer_for_Social_Media_Posts.ipynb
 ```
 - Run all cells sequentially.
