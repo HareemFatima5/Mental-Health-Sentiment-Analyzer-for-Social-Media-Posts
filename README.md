@@ -21,28 +21,28 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Mental_Health_Sentiment_Analyzer.git
 cd Mental_Health_Sentiment_Analyzer
-'''
+```
 
-Download required NLTK resources:
+### Download required NLTK resources:
 
 ```bash
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('wordnet')
-'''
+```
 
-How to Use
+## How to Use
 Open the Jupyter Notebook:
 
 '''bash
 jupyter notebook Mental_Health_Sentiment_Analyzer_for_Social_Media_Posts.ipynb
-'''
+```
 - Run all cells sequentially.
 - Review model performance and confusion matrices.
 - Modify and test with your own text data if needed.
 
-Future Improvements
+## Future Improvements
 - Live integration with Twitter API or Reddit API
 - Deploy as a web app using Flask or Streamlit
 - Use deep learning models (e.g., BERT)
