@@ -3,7 +3,6 @@
 This project uses Natural Language Processing (NLP) and Machine Learning to analyze and classify social media posts based on their sentiment regarding mental health.
 The goal is to help identify posts that may indicate mental health issues, promote awareness, and assist in early intervention.
 
----
 
 ## Features
 
@@ -14,11 +13,6 @@ The goal is to help identify posts that may indicate mental health issues, promo
   - Random Forest
 - Performance metrics (Accuracy, Precision, Recall, F1-Score)
 - Confusion matrix visualization
-
----
-
-
----
 
 ## Installation
 
@@ -37,6 +31,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('wordnet')
 '''
+
 How to Use
 Open the Jupyter Notebook:
 
