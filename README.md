@@ -44,6 +44,5 @@ jupyter notebook Mental_Health_Sentiment_Analyzer_for_Social_Media_Posts.ipynb
 
 ## Future Improvements
 - Live integration with Twitter API or Reddit API
-- Deploy as a web app using Flask or Streamlit
 - Use deep learning models (e.g., BERT)
 - Multilingual support
