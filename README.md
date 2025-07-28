@@ -19,8 +19,8 @@ The goal is to help identify posts that may indicate mental health issues, promo
 Clone the repository:
 
 ```bash
-git clone https://github.com/HareemFatima5/Mental_Health_Sentiment_Analyzer.git
-cd Mental_Health_Sentiment_Analyzer
+git clone https://github.com/HareemFatima5/Mental_Health_Sentiment_Analyzer_for_Social_Media_Posts.git
+cd Mental_Health_Sentiment_Analyzer_for_Social_Media_Posts
 ```
 
 ### Download required NLTK resources:
