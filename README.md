@@ -42,6 +42,10 @@ jupyter notebook Mental_Health_Sentiment_Analyzer_for_Social_Media_Posts.ipynb
 - Review model performance and confusion matrices.
 - Modify and test with your own text data if needed.
 
+## Streamlit App
+
+![demo](https://github.com/HareemFatima5/Mental-Health-Sentiment-Analyzer-for-Social-Media-Posts/blob/main/images/normal.PNG)
+
 ## Future Improvements
 - Live integration with Twitter API or Reddit API
 - Use deep learning models (e.g., BERT)
